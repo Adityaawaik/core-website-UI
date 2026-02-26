@@ -2,11 +2,11 @@
 
 # <a href='https://adityaawaik.github.io/core-website-UI/'> Core website </a>
 
-#About 
+# About 
 
 A responsive dashboard UI built using modern frontend technologies. The project demonstrates reusable components, responsive layout handling, and clean UI structure suitable for admin or HR management systems.
 
-#Assumption Made 
+# Assumption Made 
 
 <p>The project focuses only on UI implementation (no backend integration).</p>
 <p>Static data is used to demonstrate layout and interactions.</p>
