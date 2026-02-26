@@ -8,11 +8,11 @@ A responsive dashboard UI built using modern frontend technologies. The project 
 
 # Assumption Made 
 
-<p>The project focuses only on UI implementation (no backend integration).</p>
-<p>Static data is used to demonstrate layout and interactions.</p>
-<p>Design is optimized primarily for desktop and tablet, with responsive handling for mobile.</p>
-<p>Sidebar navigation and burger menu behaviour are implemented for UI demonstration purposes.</p>
-<p>This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.</p>
+<p>1. The project focuses only on UI implementation (no backend integration).</p>
+<p>2. Static data is used to demonstrate layout and interactions.</p>
+<p>3. Design is optimized primarily for desktop and tablet, with responsive handling for mobile.</p>
+<p>4. Sidebar navigation and burger menu behaviour are implemented for UI demonstration purposes.</p>
+<p>5. This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.</p>
 
 
 
