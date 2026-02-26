@@ -6,6 +6,19 @@
 
 A responsive dashboard UI built using modern frontend technologies. The project demonstrates reusable components, responsive layout handling, and clean UI structure suitable for admin or HR management systems.
 
+# Setup Instructions 
+  1. Clone repository
+     git clone https://github.com/adityaawaik/core-website-UI.git
+
+ 2. Navigate into project
+    cd core-website-UI
+
+ 3. Install dependencies
+    npm install
+
+ 4. Run development server
+    npm run dev
+
 # Assumption Made 
 
 <p>1. The project focuses only on UI implementation (no backend integration).</p>
