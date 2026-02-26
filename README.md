@@ -2,7 +2,19 @@
 
 # <a href='https://adityaawaik.github.io/core-website-UI/'> Core website </a>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#About 
+
+A responsive dashboard UI built using modern frontend technologies. The project demonstrates reusable components, responsive layout handling, and clean UI structure suitable for admin or HR management systems.
+
+#Assumption Made 
+
+<p>The project focuses only on UI implementation (no backend integration).</p>
+<p>Static data is used to demonstrate layout and interactions.</p>
+<p>Design is optimized primarily for desktop and tablet, with responsive handling for mobile.</p>
+<p>Sidebar navigation and burger menu behaviour are implemented for UI demonstration purposes.</p>
+<p>This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.</p>
+
+
 
 Currently, two official plugins are available:
 
